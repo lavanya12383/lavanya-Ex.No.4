@@ -174,15 +174,6 @@ Comparative Analysis	Efficiency-focused insights	Personalization-focused insight
 Experiential Perspective	Smooth experience narration	Emphasizes empathy gaps
 Everyday Functioning	Scalable solutions	Notes real-world limits
 Universal Prompt	Clear role-based responses	Relatable analogies
-Structured Refinements	Strict adherence to steps	Condensed conversation
-Prompt Size Limitations	Handles long prompts directly	Splits long prompts for clarity
-
-# GPT-5 excels in structured, efficient, multi-turn conversations.
-
-# Gemini shines in empathy, simplification, and user relatability.
-
-# Best practice: Hybrid approach — use GPT-5 for back-end structured workflows + Gemini for customer-facing conversational tone.
-
 The various types of Prompts are executed successfully with generated the report.
 Thus the Prompts were exected succcessfully.
 
