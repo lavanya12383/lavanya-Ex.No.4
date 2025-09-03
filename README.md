@@ -34,7 +34,7 @@ Persona and Context Prompts:
 •	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
-## Result: Scenario-Based Report: AI-Powered Chatbot Prompting Techniques
+## ALGORITHM: Scenario-Based Report: AI-Powered Chatbot Prompting Techniques
 🎯 Scenario
 
 A company has deployed an AI chatbot for customer support. The chatbot needs to efficiently resolve product troubleshooting, order tracking, and general inquiry issues while being conversational and adaptive.
@@ -168,7 +168,7 @@ Long Prompt: Breaks the query into smaller sub-questions before responding.
 Evaluation:
 GPT-5 handles long prompts holistically, Gemini breaks them into chunks for clarity.
 
-📊 Final Evaluation
+## RESULT:
 Technique	GPT-5 Strengths	Gemini Strengths
 Comparative Analysis	Efficiency-focused insights	Personalization-focused insights
 Experiential Perspective	Smooth experience narration	Emphasizes empathy gaps
